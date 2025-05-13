@@ -1,5 +1,5 @@
 # 💫 About Me:
-💗 Full-Stack Developer<br>💗 Focused on AI-integrated system and engaging user experiences<br>💗 Passionate about turning ideas into reality by combining creativity with technical expertise
+💗 Full-Stack Developer<br>💗 Focused on AI-integrated system and engaging user experiences<br>💗 Passionate about turning ideas into reality by combining creativity with technical expertise<br>💗 I'm also the first person to have received recognition for graduating in an accelerated timeline at GCSE Concordia University
 
 
 ## 🌐 Socials:
